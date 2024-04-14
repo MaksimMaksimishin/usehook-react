@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usehook-react/static/css/main.57233a14.css",
+    "main.js": "/usehook-react/static/js/main.af105ddb.js",
+    "index.html": "/usehook-react/index.html",
+    "main.57233a14.css.map": "/usehook-react/static/css/main.57233a14.css.map",
+    "main.af105ddb.js.map": "/usehook-react/static/js/main.af105ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57233a14.css",
+    "static/js/main.af105ddb.js"
+  ]
+}
